@@ -1,5 +1,5 @@
 ## Description
-This is a project where you can find all the characters of Rick and Morty with your descriptions.
+This is a project where you can find all the characters of Rick and Morty with its descriptions.
 I used the API from https://rickandmortyapi.com/. 
 
 Preview
