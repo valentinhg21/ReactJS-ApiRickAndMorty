@@ -3,8 +3,7 @@ This is a project where you can find all the characters of Rick and Morty with i
 I used the API from https://rickandmortyapi.com/. 
 
 Preview
-https://romantic-boyd-cfc3db.netlify.app/
-
+https://rickandmortyjs.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
