@@ -1,0 +1,12 @@
+.card{
+    margin: 5rem;
+    width: 20rem;
+}
+
+
+@media only screen and (max-width: 990px) {
+    .card{
+        margin: 5rem;
+        width: 16rem;
+    }
+}
