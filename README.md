@@ -1,8 +1,9 @@
 ## Description
-This is a project where you can find all the characters of Rick and Morty with its descriptions.
-I used the API from https://rickandmortyapi.com/. 
+Esto es un proyecto dónde encuentras todos los personajes de la serie animada Rick and Morty. 
 
-Preview
+API usada: https://rickandmortyapi.com/. 
+
+Visualización.
 https://rickandmortyjs.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
